@@ -8,4 +8,3 @@ for i in range (5, 25, 3):
     print(i, end= '')
 for i in range(10, 20):
     print(i, end= '')
-# New commit from pycharm at 18.51
